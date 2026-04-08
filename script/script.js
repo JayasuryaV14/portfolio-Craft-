@@ -5,11 +5,10 @@ function template() {
     window.location.href = 'template.html';
 }
 function pgvisit() {
-<<<<<<< HEAD
+
     window.open('https://phenomenal-yeot-782c0b.netlify.app/')
-=======
-    window.open('https://portfoliocraft-gjjm.github.io/portfolio-sample-1/')
->>>>>>> 8f3d6b1eb6123245994fbba26e1fb057adc49b88
+open('https://portfoliocraft-gjjm.github.io/portfolio-sample-1/')
+
 }
 function provisit() {
     window.open('https://aruntechz.web.app/?fbclid=PAZXh0bgNhZW0CMTEAAabW3nBN0bfUKQ29TR61EAVuaGmr-sFXNLucFYNYgJ9dGJ88wjzCg69g9GA_aem_vQFCMxsnUsRVlPCbCaoJuA')
